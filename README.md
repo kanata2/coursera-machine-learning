@@ -1,6 +1,8 @@
 # Coursera Machine Learning
 をやっている
 
+https://www.coursera.org/learn/machine-learning/home/welcome
+
 ## Usage
 
     $ git clone https:github.com/naoki-k/coursera-machine-learning
