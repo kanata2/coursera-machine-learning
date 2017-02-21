@@ -11,7 +11,8 @@ https://www.coursera.org/learn/machine-learning/home/welcome
 
 ## Progress
 - [x] Week 1 (2/20 done)
-- [ ] Week 2
+- [x] Week 2 (2/22 done)
+  - [ ] Optional Exercise
 - [ ] Week 3
 - [ ] Week 4
 - [ ] Week 5
