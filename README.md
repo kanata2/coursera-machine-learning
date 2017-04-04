@@ -15,7 +15,7 @@ https://www.coursera.org/learn/machine-learning/home/welcome
   - [ ] Optional Exercise
 - [x] Week 3 (2/27 done)
   - [ ] Optional Exercise
-- [ ] Week 4
+- [x] Week 4 (4/5 done)
 - [ ] Week 5
 - [ ] Week 6
 - [ ] Week 7
