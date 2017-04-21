@@ -24,7 +24,7 @@ For REPL:
   - [ ] Optional Exercise
 - [x] Week 4 (4/5 done)
 - [x] Week 5 (4/13 done)
-- [ ] Week 6
+- [x] Week 6 (4/22 done)
 - [ ] Week 7
 - [ ] Week 8
 - [ ] Week 9
