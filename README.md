@@ -19,13 +19,11 @@ For REPL:
 ## Progress
 - [x] Week 1 (2/20 done)
 - [x] Week 2 (2/22 done)
-  - [ ] Optional Exercise
 - [x] Week 3 (2/27 done)
-  - [ ] Optional Exercise
 - [x] Week 4 (4/5 done)
 - [x] Week 5 (4/13 done)
 - [x] Week 6 (4/22 done)
-- [ ] Week 7
+- [x] Week 7 (5/2 done)
 - [ ] Week 8
 - [ ] Week 9
 - [x] Week 10 (5/1 done)
