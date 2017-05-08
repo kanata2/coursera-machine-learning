@@ -24,7 +24,7 @@ For REPL:
 - [x] Week 5 (4/13 done)
 - [x] Week 6 (4/22 done)
 - [x] Week 7 (5/2 done)
-- [ ] Week 8
+- [x] Week 8 (5/9 done)
 - [ ] Week 9
 - [x] Week 10 (5/1 done)
 - [ ] Week 11
