@@ -1,5 +1,5 @@
 # Coursera Machine Learning
-をやっている
+を ~~やっている~~ やった
 
 https://www.coursera.org/learn/machine-learning/home/welcome
 
@@ -25,6 +25,6 @@ For REPL:
 - [x] Week 6 (4/22 done)
 - [x] Week 7 (5/2 done)
 - [x] Week 8 (5/9 done)
-- [ ] Week 9
+- [x] Week 9 (5/13 done)
 - [x] Week 10 (5/1 done)
 - [x] Week 11 (5/13 done)
